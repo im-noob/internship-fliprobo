@@ -1,0 +1,23 @@
+https://github.com/dsrscientist/DSData
+
+https://github.com/dsrscientist/dataset1
+
+https://github.com/dsrscientist/Dataset2
+
+https://github.com/dsrscientist/dataset3
+
+url="https://raw.githubusercontent.com/dsrscientist/dataset_format/main/spam.html"
+
+https://github.com/dsrscientist/dataset_format
+
+https://raw.githubusercontent.com/dsrscientist/dataset3/main/agedata.tsv
+
+https://github.com/dsrscientist
+start copying the link in notepad
+https://github.com/dsrscientist/DSData
+https://github.com/dsrscientist/dataset1
+https://github.com/dsrscientist/Dataset2
+https://github.com/dsrscientist/Dataset3
+url="https://raw.githubusercontent.com/dsrscientist/dataset_format/main/spam.html"
+https://github.com/dsrscientist/dataset_format
+https://raw.githubusercontent.com/dsrscientist/dataset3/main/agedata.tsv

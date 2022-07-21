@@ -1,0 +1,1 @@
+1. When we are segmenting data into percentages we commonly are talking about quartiles, deciles and percentiles. Quartiles divide the data into four parts; deciles divide the data into 10 parts; percentiles divide the data into 100 parts.
